@@ -8,7 +8,7 @@ I'm a second-year computer science student at Montgomery College with a strong p
 - 💻 Building Robust Backends with Node Js and PostgreSQL
 - 🧠 Uncovering the principles of algorithmic efficiency
 
-Check out my [coding portfolio!]([https://amanuel-portfolio-omega.vercel.app/])
+Check out my [coding portfolio!](https://amanuel-portfolio-omega.vercel.app/)
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/amanuel-abiy-96a9a1262/))
