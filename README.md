@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋 I'm Amanuel Abiy</h1>
 
 # 💫 About Me:
-I'm a second-year computer science student at Montgomery College with a strong passion for computer science, machine learning, and developing robust, scalable applications.
+Computer Science Student at the University of Maryland College Park. Deep interest in Machine Learning. 
 
 ## 🚀 What I'm Up To
 
 - 💻 Building Robust Backends with NodeJs and PostgreSQL
-- 🧠 Uncovering the principles of algorithmic efficiency
+- 🧠 Building ML models
 
 Check out my [coding portfolio!](https://amanuel-portfolio-omega.vercel.app/)
 
