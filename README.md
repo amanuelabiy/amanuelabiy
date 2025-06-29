@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Amanuel Abiy</h1>
 
 # 💫 About Me:
-Computer Science Student at the University of Maryland College Park. Deep interest in Machine Learning. 
+Computer Science & Mathematics double major at the University of Maryland, passionate about machine learning, research, and building things that matter
 
 ## 🚀 What I'm Up To
 
