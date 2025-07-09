@@ -5,7 +5,7 @@ Computer Science & Mathematics double major at the University of Maryland, passi
 
 ## 🚀 What I'm Up To
 
-- 💻 I'm currently diving deep into machine learning. From foundational math and algorithms to implementing models from scratch and reproducing research papers. I love connecting theory with real-world applications.
+- 💻 I'm currently diving deep into machine learning. 
 
 Check out my [coding portfolio!](https://amanuel-portfolio-omega.vercel.app/)
 
