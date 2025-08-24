@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Amanuel Abiy</h1>
 
 # 💫 About Me:
-Computer Science & Mathematics double major at the University of Maryland, passionate about machine learning, research, and building things that matter
+Computer Science major at the University of Maryland, passionate about machine learning, research, and building things that matter
 
 ## 🚀 What I'm Up To
 
