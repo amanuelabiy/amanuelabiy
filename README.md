@@ -5,7 +5,7 @@ Computer Science major at the University of Maryland, passionate about machine l
 
 ## 🚀 What I'm Up To
 
-- 💻 Building: https://www.careflow.clinic/
+- 💻 Building
 
 Check out my [coding portfolio!](https://amanuel-portfolio-omega.vercel.app/)
 
